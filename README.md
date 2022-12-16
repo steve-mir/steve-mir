@@ -9,7 +9,7 @@
     </a>
     <br><img src="https://komarev.com/ghpvc/?username=steve-mir"/>
     <h1>
-      Hi! I'm Stephen, a Software Engineer
+      Hi! I'm Stephen, a Software/Machine Learning Developer
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=50>
     </h1>
   </div>
@@ -17,7 +17,7 @@
 
 # :man_technologist: About Me
 
-I am a self-motivated person who is willing to go above and beyond on any project, and to learn valuable skills on my own time.
+I am self-motivated and one who is willing to go above and beyond on any project, and to learn valuable skills on my own time.
 
 # :hammer_and_wrench: Languages and Tools
 

@@ -17,7 +17,15 @@
 
 # :man_technologist: About Me
 
-I am self-motivated and one who is willing to go above and beyond on any project, and to learn valuable skills on my own time.
+I'm a self-driven enthusiast with a passion for pushing the boundaries of what's possible. I thrive on taking projects to the next level, constantly seeking ways to innovate and create exceptional solutions. My journey is guided by a relentless desire to acquire new skills, always hungry for knowledge and improvement.
+
+### Skillset
+
+- **Machine Learning**: Expertise in harnessing the power of data to unlock valuable insights.
+- **Go Programming**: Proficiency in Go, a language designed for efficiency and simplicity.
+- **Backend Development**: Crafting efficient and scalable backend systems to power your applications.
+
+If you're in need of a dedicated problem-solver and a relentless learner, I'm your go-to partner. Let's collaborate, create, and conquer new horizons together.
 
 # :hammer_and_wrench: Languages and Tools
 
